@@ -357,6 +357,8 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
         </profile>
+        
+        <!--     
         <profile>
             <id>sonar</id>
             <properties>
@@ -381,5 +383,6 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
         </profile>
+-->
     </profiles>
 </project>
