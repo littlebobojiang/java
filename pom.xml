@@ -357,10 +357,9 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
         </profile>
-        
-        <!--     
+          
         <profile>
-            <id>sonar</id>
+            <id>sonar1</id>
             <properties>
                 <sonar.host.url>http://116.63.158.136:9000</sonar.host.url>
                 <sonar.token>320c2faaba79a6af700acdf4aaa28aa8c0a9b36f</sonar.token>
@@ -383,6 +382,6 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
         </profile>
--->
+             
     </profiles>
 </project>
